@@ -1,0 +1,118 @@
+
+body{
+  margin:0;
+  text-align: center;
+  font-family:Arial, sans-serif;
+  font-size: 2em;
+  background-color: #DAF7A6;
+}
+
+h1,h3{
+  /* margin-top: 0; */
+  margin-top: 50px;
+  font-family: 'Charm', cursive;
+  font-size: 90px;
+  font-size: 5.625rem;
+
+}
+h2{
+  font-family: 'Sriracha', cursive;
+  font-size: 3rem;
+}
+table{
+  width:30%;
+  margin: auto;
+   border: 2px solid brown;
+   font-family: 'Charm', cursive;
+   background-color: white;
+
+
+}
+thead{
+  background-color: #333;color: #fff;
+  border: 2px;
+}
+
+
+.top-container{
+  position: relative;
+  padding-top: 100px;
+   background-color: #cc8e54;
+}
+.example-div{
+  background-color: powderblue;
+  height: 300px;
+  width: 300px;
+  padding:20px
+}
+
+.top-cloud{
+    position: absolute;
+    top:50px;
+    right:500px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.profile{
+  margin-top:100px;
+  font-family: 'Charm', cursive;
+
+}
+.profile-dep{
+  font-family: 'Charm', cursive;
+
+
+}
+.profile-image {
+
+  width:15%;
+}
+.hello{
+    font-family: 'Charm', cursive;
+    background-color: white;
+
+}
+.skill-row{
+  width: 30%;
+  margin: 100px auto;
+  text-align: left;
+  font-family: 'Charm', cursive;
+
+
+
+}
+.java-imge{
+  width: 18%;
+  float: left;
+  margin-right: 30px;
+}
+.java01{
+  clear: left;
+background-color: white;
+   border: 2px solid brown;
+}
+
+.lnguage-imge{
+  width: 20%;
+  float: right;
+  margin-right: 30px;
+}
+.lnguage-dep{
+  clear: right;
+background-color: white;
+   border: 2px solid brown;
+}
+
+.adobe-imge{
+  width: 15%;
+  float: left;
+  margin-right: 30px;
+}
+.adobe-1{
+  clear: left;
+background-color: white;
+   border: 2px solid brown;
+}
